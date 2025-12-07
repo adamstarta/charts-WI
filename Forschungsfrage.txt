@@ -1,0 +1,49 @@
+FORSCHUNGSFRAGE 
+
+Hauptforschungsfrage 
+
+Wie werden KI-generierte Agenten als digitale Nachlassform von Erwachsenen in der Schweiz im Jahr 2025 wahrgenommen und akzeptiert? 
+
+Wie werden KI-generierte Agenten als digitale Nachlassform von Erwachsenen in der Schweiz im Jahr 2025 wahrgenommen, und welche persönlichen, gesellschaftlichen und technologischen Faktoren beeinflussen ihre Akzeptanz und wahrgenommene Authentizität? à Beantworten in der Conclusion 
+
+-------------------------------------------------------------------------------------------------------------------------------------- 
+
+(Eingrenzungen: zeitlich – Gegenwartsbezug 2025; geografisch – Schweiz; Personengruppe – Erwachsene; disziplinär – Wirtschaftsinformatik / Mensch-Computer-Interaktion) 
+
+Unterforschungsfragen 
+
+Interaktions- und Wahrnehmungsperspektive à Interview 
+Welche Arten digitaler Erinnerungsformen (z. B. Fotos, Videos, Sprachnachrichten, Online-Profile) nutzen Menschen derzeit, und wie erleben sie diese emotional im Umgang mit Verstorbenen? 
+
+Identifikation aktueller Bedürfnisse und Lücken in digitalen Erinnerungspraktiken 
+
+Erkenntnis, welche Medienformen emotionale Nähe oder Distanz fördern 
+
+Ableitung von Anforderungen für zukünftige, empathischere digitale Erinnerungstechnologien 
+
+--- 
+
+Vergleichsperspektive à Interview 
+Wie unterscheiden sich KI-Nachlässe in emotionaler Bindung, Präsenzgefühl und Trauerbewältigung von klassischen Erinnerungsformen wie Fotos oder Videos? 
+
+Analyse Mehrwert und Risiken KI-gestützter Nachlassformen gegenüber klassischen Erinnerungen 
+
+Erkenntnis über gesellschaftliche Akzeptanz und mögliche ethische Grenzen 
+
+Grundlage für die Gestaltung von Designrichtlinien oder verantwortungsbewussten Anwendungsfeldern 
+
+--- 
+
+Authentizitäts- und Identitätsperspektive à Literaturanalyse 
+
+Welche Charaktereigenschaften und kommunikativen Verhaltensweisen eines KI-Agenten führen dazu, dass dieser als authentisch, vertrauenswürdig und identitätsnah erlebt wird? 
+
+Verständnis, welche Merkmale (sprachliche, emotionale, verhaltensbezogene) Vertrauen und Glaubwürdigkeit fördern 
+
+Bestimmung der Grenze zwischen realer Erinnerung und künstlicher Rekonstruktion 
+
+Beitrag zur Entwicklung ethischer Leitlinien für die Gestaltung „postmortaler“ KI-Agenten 
+
+ 
+
+ 

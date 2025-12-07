@@ -1,0 +1,16 @@
+Interview,Person,Haeufigste_Medium,Staerkstes_Praesenz,Vermeidung,KI_Grundhaltung,Wuerde_KI_nutzen,Hauptbedenken_1,Hauptbedenken_2,Eigenes_Vermaechtnis,Personen_Typ
+I01,Anonym,Fotos,Videos (Stimme),Nein,Kritisch,Nein,Authentizitaet,Verfaelschung,Fotosammlung,Authentizitaets-Skeptiker
+I02,Anonym,Fotos (selten),Briefe,Ja,Skeptisch-differenziert,Bedingt (Ratschlaege),Authentizitaet,Datenschutz,Fotosammlung,Differenziert-Skeptisch
+I03,Anonym,Videos,Videos (Stimme),Ja,Skeptisch zukunftsoffen,Aktuell nein,Fehleranfaelligkeit,Datenschutz,Traditionelles Fotoalbum,Differenziert-Skeptisch
+I04,Anonym,Fotos,Videos + Sprachaufnahmen,Ja,Sehr positiv,Ja,Nicht-Abschliessen,Keine,KI-Agent,Offen-Positiv
+I05,Anonym,Fotos,Spezifisches Video,Ja,Kritisch (religioes),Nein (erst nach Jahren),Verfaelschung,Religioese Bedenken,Videosammlung,Authentizitaets-Skeptiker
+I06,Anonym,Chatverlaeufe,Sprachnachrichten,Ja,Gemischt,Nur sehr begrenzt,Verfaelschung,Unrealitaet,Videos + Text,Authentizitaets-Skeptiker
+I07,Jhampa,Physische Fotos,Von Person gemachte Fotos,Ja,Beaengstigend differenziert,Chatbot nein bewegte Fotos ja,Nicht-Loslassen,Authentizitaet,Physische Fotos + Briefe,Differenziert-Skeptisch
+I08,Stefan,Fotos,Videos,Nein,Stark ablehnend,Definitiv nein,Keine Echtheit,Menschsein verloren,Traditionelle Formen,Kategorischer Ablehner
+I09,Ozan,Gedanken/Fotos,Videos,Nein,Aengstlich ablehnend,Nur fachlich,Wertschaetzung Lebenszeit,Keine,Traditionelle Formen,Differenziert-Skeptisch
+I10,Oben,Digitalisierte Fotos,Video mit Ton,Nein,Theoretisch offen,Unter Bedingungen,Konsens noetig,Abhaengigkeit,Nicht spezifiziert,Offen-Positiv
+I11,Kanttegh,Verschiedene,Videos/Audio,Ja,Authentizitaetsorientiert skeptisch,Nein bei Nahestehenden,Authentizitaet,Keine,Echte Aufnahmen,Authentizitaets-Skeptiker
+I12,Abbas,Geschichten (muendlich),Geschichten,Nein,Fundamental ablehnend,Nein,Totenruhe,Natuerlicher Zyklus,Muendliche Geschichten,Kategorischer Ablehner
+I13,Janis,Portrait (analog),Analoge Gegenstaende,Ja,Kritisch ethisch fundiert,Nein,Authentizitaet,Totenruhe,Analoge Erinnerungen,Authentizitaets-Skeptiker
+I14,David,Fotos (passiv),Textnachrichten,Nein,Traditionalistisch-skeptisch,Nur bei extremer Isolation,Totenruhe,Keine koerperliche Naehe,Traditionelle Formen,Authentizitaets-Skeptiker
+I15,Aadil,Wenig digital,Videos (Stimme),Aktuell zurueckhaltend,Prinzipiell skeptisch,Nur wenn es Loslassen foerdert,Loslassen verhindern,Psychologische Risiken,Traditionelle Formen,Differenziert-Skeptisch
