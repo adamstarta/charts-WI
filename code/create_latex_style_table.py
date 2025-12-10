@@ -34,7 +34,7 @@ themes_data = [
             ('KI kann emotionale Nähe nicht ersetzen', 'I01, I05, I06, I07, I08, I11, I13'),
             ('Echte Aufnahmen werden künstlichen vorgezogen', 'I01, I05, I06, I11, I13, I14'),
             ('Stimme/Bewegung erzeugt stärkere Präsenz als statische Bilder', 'I01, I03, I04, I05, I08, I09, I10, I11, I15'),
-            ('KI könnte bei plötzlichem Tod Abschied ermöglichen', 'I04'),
+            ('KI könnte bei plötzlichem Tod Abschied ermöglichen', 'I04, I12'),
         ]
     },
     {
@@ -191,7 +191,7 @@ markdown_content = """# Themen-Matrix: Einflussfaktoren auf die Einstellung zu K
 | *Emotionale Bindung und Präsenzgefühl (FF B)* | KI kann emotionale Nähe nicht ersetzen | I01, I05, I06, I07, I08, I11, I13 |
 | | Echte Aufnahmen werden künstlichen vorgezogen | I01, I05, I06, I11, I13, I14 |
 | | Stimme/Bewegung erzeugt stärkere Präsenz als statische Bilder | I01, I03, I04, I05, I08, I09, I10, I11, I15 |
-| | KI könnte bei plötzlichem Tod Abschied ermöglichen | I04 |
+| | KI könnte bei plötzlichem Tod Abschied ermöglichen | I04, I12 |
 | *Trauerprozess und Bewältigung (FF B)* | KI könnte Loslassen/Abschliessen verhindern | I01, I02, I03, I05, I06, I07, I08, I09, I12, I13, I14, I15 |
 | | Zeitlicher Abstand vor KI-Nutzung wichtig | I05, I06, I07 |
 | | Zeitliche Begrenzung der Nutzung sinnvoll | I03, I15 |

@@ -101,6 +101,12 @@ Trotz grundsätzlicher Skepsis erkennt Abbas **einige potenzielle Vorteile**:
    - "Der kann die eigene Geschichte erzählen" - im Gegensatz zu einem Foto, das stumm bleibt
    - Löst das Problem, dass "im Minimum jemand noch die Geschichte erzählen" muss
 
+4. **Abschied bei plötzlichem Tod** (wichtiger Punkt):
+   - "Doch Vorteile gibt es. Jetzt sagen wir mal, man hat mit einer Person nicht abgeschlossen"
+   - Bei plötzlichen Todesfällen oder ungelösten Konflikten könnte KI eine Möglichkeit zum "kleinen Abschluss" bieten
+   - Man könne sich verabschieden oder entschuldigen, was mental helfen könne
+   - Ein letztes "Ich liebe dich" sagen, auch wenn die Reaktion nicht 100% authentisch ist
+
 **ABER**: Abbas stellt die Frage "Ob das etwas Gutes ist, sei dahingestellt" - er erkennt die Funktionalität, zweifelt aber am Wert.
 
 ### Würde KI nutzen?

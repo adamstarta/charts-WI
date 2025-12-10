@@ -25,13 +25,16 @@ print("="*60)
 fig, ax = plt.subplots(figsize=(10, 6))
 
 medien_data = {
-    'Fotos': 9,
+    'Fotos': 12,
     'Videos': 1,
     'Chatverlaeufe': 1,
-    'Muendliche\nGeschichten': 1,
-    'Analoge\nMedien': 1,
-    'Verschiedene': 2
+    'Muendliche\nGeschichten': 1
 }
+# Fotos: I01, I02, I04, I05, I07, I08, I09, I10, I11, I13, I14, I15 = 12
+# Videos: I03 = 1
+# Chatverlaeufe: I06 = 1
+# Muendliche Geschichten: I12 (Abbas) = 1
+# Hinweis: I13 nutzt analoge Medien (Portrait), zaehlt hier als Fotos
 
 labels = list(medien_data.keys())
 values = list(medien_data.values())
